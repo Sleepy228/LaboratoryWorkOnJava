@@ -10,7 +10,7 @@ Introduction to TCP and UDP;
 - laba5:
 Introduction to JavaFX (calculator);
 - laba6:
-Introduction to Streams;
+Introduction to Thread;
 - laba7a:
 Introduction to JDBS and JavaFX;
 - laba8:
