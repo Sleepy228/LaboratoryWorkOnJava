@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/laba4a.iml" filepath="$PROJECT_DIR$/.idea/laba4a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laba4client/laba4client.iml" filepath="$PROJECT_DIR$/laba4client/laba4client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laba4server/laba4server.iml" filepath="$PROJECT_DIR$/laba4server/laba4server.iml" />
+    </modules>
+  </component>
+</project>
