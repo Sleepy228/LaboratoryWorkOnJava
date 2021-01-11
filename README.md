@@ -8,7 +8,7 @@ Introduction to interfaces and abstract classes;
 - laba4:
 Introduction to TCP and UDP;
 - laba5:
-Introduction to JavaFX;
+Introduction to JavaFX (calculator);
 - laba6:
 Introduction to Streams;
 - laba7a:
@@ -17,4 +17,5 @@ Introduction to JDBS and JavaFX;
 Introduction to Servlets;
 ## Technology
 - javafx-sdk-11.0.2;
+- mysql-connector-java-8.0.22
 - MySQL;
